@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="categoriesImagesList">
+        <item>@drawable/eco_park</item>
+        <item>@drawable/mahavir_temple</item>
+        <item>@drawable/planetarium</item>
+        <item>@drawable/funtasia_island</item>
+        <item>@drawable/golghar</item>
+    </integer-array>
+</resources>

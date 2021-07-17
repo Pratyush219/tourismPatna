@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/categoryFragment">
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.example.patnatourism.CategoryFragment"
+        android:label="start_up_page"
+        tools:layout="@layout/start_up_page">
+        <action
+            android:id="@+id/action_categoryFragment_to_placesFragment"
+            app:destination="@id/placesFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/placesFragment"
+        android:name="com.example.patnatourism.PlacesFragment"
+        android:label="fragment_places"
+        tools:layout="@layout/fragment_places">
+        <action
+            android:id="@+id/action_placesFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment2"
+            app:enterAnim="@anim/slide_in_up"
+            app:exitAnim="@anim/slide_out_up"
+            app:popEnterAnim="@anim/slide_in_down"
+            app:popExitAnim="@anim/slide_out_down" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment2"
+        android:name="com.example.patnatourism.DetailsFragment"
+        android:label="description"
+        tools:layout="@layout/description" />
+</navigation>

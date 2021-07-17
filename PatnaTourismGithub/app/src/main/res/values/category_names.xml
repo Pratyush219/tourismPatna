@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_list">
+        <item>@string/attraction</item>
+        <item>@string/pilgrimage</item>
+        <item>@string/info</item>
+        <item>@string/entertainment</item>
+        <item>@string/monuments</item>
+    </string-array>
+</resources>

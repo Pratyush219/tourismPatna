@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Patna Tourism</string>
+    <string name="home">Home Page</string>
+    <string name="welcome">Welcome to Patna</string>
+    <string name="chooseCategory">Choose a category</string>
+    <string name="selectPlace">Click on card for more info</string>
+    <string name="attraction"><h3>Places of attraction</h3></string>
+    <string name="pilgrimage"><h3>Pilgrimages</h3></string>
+    <string name="info"><h3>Infotainment</h3></string>
+    <string name="entertainment"><h3>Entertainment</h3></string>
+    <string name="monuments"><h3>Monuments</h3></string>
+    <string name="location">Location</string>
+    <string name="website">Website</string>
+
+    <!--  Places of attraction  -->
+    <string name="buddha_smriti_park"><h3>Buddha Smriti Park</h3></string>
+    <string name="mahatma_gandhi_statue"><h3>Mahatma Gandhi Statue, Gandhi Maidan</h3></string>
+    <string name="agam_kuan"><h3>Agam Kuan</h3></string>
+
+    <!--  Pilgrimages  -->
+    <string name="mahavir_mandir"><h3>Mahavir Mandir</h3></string>
+    <string name="kamaldah_jain"><h3>Kamaldah Jain Temple</h3></string>
+    <string name="patna_sahib"><h3>Takht Shri Harmandir Ji Patna Sahib</h3></string>
+    <string name="patan_devi_mandir"><h3>Patan Devi Mandir</h3></string>
+    <string name="st_luke_church"><h3>St Luke\'s Church Patna</h3></string>
+
+    <!--  Infotainment  -->
+    <string name="bihar_museum"><h3>Bihar Museum</h3></string>
+    <string name="patna_museum"><h3>Patna Museum</h3></string>
+    <string name="planetarium"><h3>Indira Gandhi Planetarium</h3></string>
+    <string name="zoo"><h3>Sanjay Gandhi Biological Park</h3></string>
+    <string name="science_centre"><h3>Shri Krishna Science Centre</h3></string>
+
+    <!--  Monuments  -->
+    <string name="golghar"><h3>Golghar</h3></string>
+    <string name="karuna_stupa"><h3>Karuna Stupa</h3></string>
+    <string name="shaheed_smarak"><h3>Shaheed Smarak</h3></string>
+    <string name="shanti_stupa"><h3>Shanti Stupa</h3></string>
+
+    <!--  Entertainment  -->
+    <string name="eco_park"><h3>Eco Park</h3></string>
+    <string name="funtasia_island"><h3>Funtasia Island</h3></string>
+    <string name="mona_cinema"><h3>Mona Cinema</h3></string>
+    <string name="pnm_mall"><h3>P&amp;M Mall</h3></string>
+    <string name="regent_fun_cinemas"><h3>Regent Fun Cinemas</h3></string>
+
+    <string name="patna_desc"><pre>Patna is the largest city in the Indian state of Bihar. It also happens to be among the most ancient cities in the world. Patna is the capital of Bihar and is situated on the banks of the Ganga River. The city was originally known as Pataliputra. It was known as the seat of learning during the Mauryan rule.
+
+Patna over the years has come up as an important trade center in the country. In the year 2009, it ranked as the second best place in India for starting a business by the World Bank.
+
+Patna is also a very famous pilgrimage center in India. It has some of the most sough after Buddhist, Hindu, and Jain pilgrim centers like; Bodhgaya, Rajgir, Nalanda, Vaishali and Pawapuri.</pre></string>
+
+    <string name="buddha_smriti_park_desc">"Buddha Smriti Park also known as Buddha Memorial Park (as translated in English) is an urban park located on Frazer Road near Patna Junction in Patna, India.This park has been designed by Vikram Lall and developed by the Bihar Government to commemorate the 2554th birth anniversary of the Buddha. This park was inaugurated by the 14th Dalai Lama.
+The park has been constructed at the place where once The historical Bankipur Central Jail of British era existed. After a new central jail was built at Beur on the outskirts of Patna, the old jail become redundant. The park is a brainchild of the Chief Minister of Bihar, Nitish Kumar. Tibetan spiritual leader, Dalai Lama, on 27 May 2010 inaugurated Buddha Smriti Park and planted two saplings one was brought from Bodh Gaya and the other from Anuradhapura in Sri Lanka of the sacred Bodhi tree. A branch of the original Mahabodhi tree at Bodh Gaya is believed to have been taken to Anuradhapura in Sri Lanka by Emperor Ashoka\'s son Mahendra.
+The Sri Lankan delegation had brought a sapling from this tree to planted at the Buddha Smriti Park.The central attraction of this park is the Stupa, known as Patliputra Karuna Stupa, 200 feet high, situated in the middle of the park. This 22 acre park located in the heart of city house the pot containing holy ashes of Buddha inside the main stupa. Previously the pot containing ashes of Buddha was for display in Patna Museum, pot was earlier excavated from Vaishali. The park have a museum, where Buddhist relics from Japan, Myanmar, South Korea, Sri Lanka and Thailand have been installed. The park is also having meditation hall for prayers.[10] The entry charge is ₹ 20 per individual be it child or an elder person. It now has a tall statue of Buddha."</string>
+
+    <string name="golghar_desc">"The Golghar is a massive granary devised by Captain John Garstin of Bengal Engineers and constructed in 1786 in Patna, the capital city of Bihar. The depository, having a capacity of 140000 tonnes, was built after the orders of Warren Hastings who was the Governor-General of India at that time. It was just part of a customary plan to store grains in case of famines with the idea of building a spate of storehouses, but ultimately only one was made, the Golghar.
+It is a dome shaped structure reaching up to a height of 29 metres. The top of the Golghar can be outreached by taking the 145 steps spiral staircase. The access to the apex is made spiral in order to make it easier and faster for workers to reach there. Apart from being a repository, this simple yet stunning structure presents an amazing panoramic view of the entire city and the nearby Ganges. Interestingly, some claim that there is a little flaw in the construction and that the doors of the storehouse opens inwards meaning that it can never be filled to its maximum capacity though it had never been filled up to its limit.
+The monument is a huge tourist attraction owing to its beautiful natural setting and a peaceful ambience. The Golghar has a historical significance as it was built to counter and combat the great famines in Bengal and Bihar that occurred in 1770. This measure was taken to prevent such calamities where the death toll rose close to 10 million. A light and sound show has been introduced recently to increase visitors and to provide tourists with a historical understanding of the construction. A drive to renovate and repair the structure was carried out in 2002."</string>
+
+    <string name="eco_park_desc">"Rajdhani Vatika is a family outing and picnic park located in Patna city. Rajdhani Vatika is also known as Ecological park and Eco Park of Patna, Bihar. This park was inaugurated by then and current chief minister of Bihar Mr. Nitish Kumar on October 2011. Department of Environment and Forest, Bihar took the initiative of building this park to reduce the load from the Patna Zoo. It is one of the most popular outing place among the locals of the Patna.
+
+        This park has two lakes and area of the park is 9.18 hectares. It is a well maintained park and it is divided in two sections. A road is going between this section of the park and both sections are interconnected by an underground tunnel. A children park and play area, cafeterias, food court, fountains are located in one part. The second part has consist theme parks like, Guru Vatika, Panchwati, Rashi Van and Kali Van. A restaurant and boating lake are also situated in the second segment of the Eco Park. It is one of the most visited park of Patna, Rajdhani Vatika receives monthly footfall of around 1 lac visitors. The park is crowded and filled with children during the weekends/holidays."</string>
+
+    <string name="mahatma_gandhi_statue_desc">"The statue of Mahatma Gandhi in Gandhi Maidan, Patna, is a public monument of India\'s father of Nation Mahatma Gandhi. The statue is the world\'s tallest bronze statue of Mahatma Gandhi. It was unveiled on 15 February 2013 by the then chief minister of Bihar, Nitish Kumar. It was established by Government of Bihar at a cost of ₹35 crore.
+
+    The statue is 72 feet (22 m) high with base and is made of bronze. It was sculpted by Ram Sutar's firm and is located on the western end of historic Gandhi Maidan, in front of St. Xavier's High School, Patna. It shows Mahatma Gandhi standing affectionately with two children. The pedestal is 24 feet (7.3 m) high with four landmark events of Gandhi's life, Dandi March in 1930, Quit India movement in 1942, Champaran Satyagraha in 1917 and charkha as symbol of Gandhi is inscribed on it in large letters.
+
+Sculptor Anil, who runs Ramsutar Arts Pvt Ltd, said "the statue, showcasing Gandhi with a smiling look, will spread the message of world peace and motivate all to bridge the divide between the rich and poor."</string>
+
+    <string name="agam_kuan_desc">Agam Kuan is said to date back to the period of Emperor of the Maurya Empire, Ashoka. This is known as \'uncomfortable well.\'
+
+Agam Kuan, a well is 105\' deep, circular in plan, with a diameter extending over 20\'2". The well is brick-encased in the upper half of its depth (down to 44\') and thereafter, secured by a series of wooden rings. The surface structure, which now covers the well and forms its most distinctive feature, has eight arched windows.
+
+In the late 19th Century, one of the British explorers, Laurence Waddell, while exploring the ruins of Pataliputra, identified Agam Kuan as the legendary well built by Ashoka for torturing people, a practice reported by a Chinese traveller Fa Hien of the 5th and 7th centuries A.D.
+
+There is also a popular legend, which states that this was the well where Ashoka threw ninety-nine of his elder brothers after killing them to obtain the throne of the Mauryan Empire. The site is also connected with several Jain legends, the most famous of them being that of a Jain monk Sudarshana who, when thrown into the well by a king named Chand, floated to the surface and was found seated on a lotus. Now this well serves as a eyewitness of the cruel history of Ashoka's earlier life and also as a wedding place, after this belief came in the mind of the local people.</string>
+
+    <string name="mahavir_temple_desc">"Mahavir Mandir Patna is one of the most visited Hindu temples in North India. It is also the most visited temple of Patna. It is one of the most beautiful temples in Patna dedicated to Lord Hanuman, situated at the entry point of the famous Patna Junction railway station. As we all know that Lord Hanuman is famous to kill all the devils and evils and protecting the good. So we urge you to must visit once when you are on the trip to Patna, Bihar. Millions of pilgrims or devotees visit the Hanuman Mandir temple every year. Temple is run by Mahavir Mandir Temple Trust, Patna. Acharya Kishore Kunal is the chief secretary of the Mahavir Mandir Temple Trust, Patna. The Mahavir Mandir Trust is the second-highest budget in terms of temples in North India. This is one of the places to visit in Patna and tourist attraction place."</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="kamaldah_temple_desc"><pre>Kamaldah Jain Temple Complex is the oldest Jain temple in Patna. It is situated in Gulzarbagh area of Patna City. As per one source, its history goes back to the times of Maurya ( c. Second-Third BCE). Considering the locality in which it is situated, the historical fact can not be denied abruptly. The famed 80-pillared Mauryan Hall at Kumhrar and the unfathomable Agam Kuan lie within one kilometer of the Jain temples.
+
+Presently, there are two groups of Jain temples - one of recent origin and another of old origin, lying some 0.5 km - 1 km distance separated by Gulzarbagh railway station. The below temple is of recent origin, situated on the main road of Gulzarbagh railway station, not far from the nearby over-bridge.</pre></string>
+
+    <string name="patna_sahib_desc"><pre>Takht Sri Patna Sahib also known as Harmandir Sahib, is a Gurdwara in the neighbourhood of Patna Sahib, India. It was to commemorate the birthplace of Guru Gobind Singh, the tenth Guru of the Sikhs on December 1666. It was built by Maharaja Ranjit Singh (1780-1839), the first Maharaja of the Sikh Empire, who also built many other Gurdwaras in the Indian subcontinent. The current shrine of Patna Sahib or Takht Sri Harmandirji Sahib was built in the 1950s.Guru Gobind Singh, the tenth Sikh Guru, was born in Patna, Bihar, on 22 December 1666.
+
+He also spent his early years here before moving to Anandpur Sahib. Besides being the birthplace of Guru Gobind Singh, Patna was also honored by visits from Guru Nanak Dev Ji as well as Guru Tegh Bahadur Ji. Patna Sahib railway station, a railway station with same name located nearby, is connected to many metropolitan cities of India by the Howrah-Delhi Main Line.
+
+Patna City is an old area of Patna. Patna City history belongs to Patliputra. Patna City comes under Patna Sahib (Vidhan Sabha constituency).Bengali Colony, Jhauganj, Lodi Katra, Rambagh, Kali Asthan, Nehru Tola, Marufganj, Harmandir Gali, Bihar Mills Colony are major areas of Patna City. The main Guru Gobind road connects Patna Sahib Gurudwara and Patna City Chowk. Mangal Talab is a water body located here. Patna City has all sorts of facilities like schools, hospitals for its residents. Other than Sikh Religious center it has a number of Hindu Temples and Mosques. It has a number of Boarding and Lodging facilities around religious centers. Patna Ghat is the Ganga side Ghat flowing in north of Patna City. Today, Patna City is also a major trading centre.</pre></string>
+
+    <string name="patan_devi_temple_desc"><pre>Patan Devi, also called Maa Patneshwari, is the oldest and one of the most sacred temples of Patna. It is regarded as one of the 51 Siddha Shakti Pithas in India. The name of the city Patna is widely believed to have been derived from the name of the Badi Patan Devi Temple. Some, however, doubt whether the name of Patna is derived from this temple. According to them, the name is derived from patan, which means a town and Patna was a big place of export and import.
+    The Bari Patan Devi Temple, Patna is facing the North, towards the Ganges river. The statues of the temple are all made up in black stone. Devotees can go to the temple at any time of the day. The temple does not distinguish between any caste or creed and hence is open for all religions and castes. The temple remains open from morning 6 am to 10 pm.
+
+    The place can be easily reached from the Patna Bus Station. The temple is just approx. 10 km from the Patna Junction Railway Station. Buses are also available.</pre></string>
+
+    <string name="st_luke_church_desc"><pre>St. Lukes Church is located at Danapur Cantonment in Danapur, a satellite town of Patna in the Indian state of Bihar. It is around 10 kilometers from Jay Prakash Narayan Airport. It is more than 200 years old, and has stood on the site through the most turbulent times in Indian history.
+
+The building is typical of 19th century British colonial architecture. It is now within the grounds of the Bihar Regimental Centre and is maintained by the Indian Army.
+
+Reverend Henry Frank Fulford Williams (1885-1966) served as a chaplain in Bengal from 1913 until 1935, and was chaplain at St. Lukes for part of his tenure.</pre></string>
+
+    <string name="bihar_museum_desc"><pre>Bihar Museum is a museum located in Patna. It was partially opened in August 2015. \'The children\'s museum\', the main entrance area, and an orientation theatre were the only parts opened to the public in August 2015. Later, in October 2017 remaining galleries were also opened. More than 100 artefacts were transferred here from Patna Museum.
+It was planned as a history museum for the state of Bihar, and began construction in Bailey Road, Patna in October 2013 with an estimated budget of ₹498 crore (US$70 million).
+It is located in Patna, the capital city of the East Indian state of Bihar. Its exact location is on the southern flank of Jawaharlal Nehru Marg, Bailey Road, in Patna. It is spread over an area of 13.9 acres. The site of the proposed museum was earlier occupied by seven old bungalows between LN Mishra Institute and Hartali Mor in Bailey Road. Later in March 2013, the building construction department demolished all the bungalows.
+The Bihar Museum has several galleries. These include the Orientation gallery, the children gallery, the regional gallery, the contemporary gallery, the historical art galleries, the Bihari Diaspora gallery and the visible storage gallery. The exhibits on different subjects are displayed in separate galleries. Each gallery is huge and has many artifacts on display including ones dating back to the 4th century. </pre></string>
+
+    <string name="patna_museum_desc"><pre>Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna,it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar. Most of the early collections have now been transferred to Bihar Museum.
+Items on display in the multipurpose museum include archaeological objects, coins, art objects, paintings, instruments, textiles, paintings, thankas, bronze images and sculptures and terra cotta images by Hindu and Buddhist artists.It has a rare collection of British-period paintings depicting day-to-day life, as well as a fine collection related to the first President of India, Rajendra Prasad. It also houses a World War I cannon. The fossil of a tree said to be more than 200 million years old is on display, as is a casket — unearthed in 1958 by archaeologist, A. S. Altekar, at the Relic Stupa of Vaishali — said to contain the sacred ashes (relics) of Gautama Buddha.A Didarganj Yakshi statue, discovered on a Ganges riverbank in 1917, was the museum\’s most prized collection, which was later shifted to Bihar Museum. The artefacts from ancient India era to 1764 are kept in Bihar Museum and those of post-1764 period are kept at Patna Museum. Rahul sankrityayan donated 10000 manuscript which are written in Gold and silver on handmade papers and book on Buddhist philosophy that were once in the library of ancient Nalanda and Vikramshila university.These manuscript were taken to Tibet dating back of around 700 years ago before the destruction of these universities.These manuscripts were brought by him. Beginning November 2009, a project was started to build a replacement museum in Patna to enable the display of larger collections.</pre></string>
+
+    <string name="planetarium_desc"><pre>Patna Planetarium is quite a popular tourist attraction when you are in the city. The Planetarium holds various exhibitions and movie shows related to astronomy, the universe etc.
+
+Apart from it, they also organise seminars for the budding astronomers. It is a good place to watch the occasion of the eclipse and meteor shower. The planetarium is a perfect place for those who are interested in Science and Cosmos and want to know and explore more about it.
+The total capacity of the main hall is 276 people at once. Within the planetarium lies a huge dome shaped screen which showcases movies for which people have to look up on the roof. The planetarium also offers a separate place to hold large events, conferences, seminars and workshops.
+</pre></string>
+
+    <string name="zoo_desc"><pre>Sanjay Gandhi Jaivik Udyan was built in the year 1969. At that time it was developed as a botanical garden. This was the Bihar’s first botanical garden. Later on Governor of Bihar, Late Nityanand Kanungo had donated 34 acres of land for the expansion of this botanical garden. In the year 1972, Government acquired more 52 acres with the help of people. In the same year revenue department of Bihar government had transferred more 60 acres to the forest department for this park. Currently, this huge park is spread over the total area of 153 acres.
+Currently, this zoological park is the abode of more than 800 animals of 110 species. We can see wild animals like Lion, Tiger, Leopard, Elephant, Deer, Panther, hippopotamus, Black Bear, Black Buck, Zebra, Girrafe, Rhinos, Chimpanzee etc. Apart from these animals, reptiles like python, crocodiles and some rare species of snake can be seen here.
+More than 35 species of fish are found in the aquarium. We can see around 32 snakes of more than 5 species in the Snake house. The lush green botanical garden is the home of around 300 species of trees which include some rare plant species which is used for herbal medicines. If you want to take a small plant for your home then you can buy it from Medicinal plant nursery present here.
+Rose Garden, a fem house, a glass house, an orchid house are some of the attractions which attract crowd towards the botanical garden. There are some attractions for bird watchers also. Birds like a Black hooded oriole, Rufous Treepie, White-throated Kingfisher, Golden flame back woodpecker, Black drongo, Jungle Babbler, Taiga Flycatcher, Oriental magpie robin can be easily seen here.
+
+</pre></string>
+
+    <string name="science_centre_desc"><pre>Shrikrishna Science Centre is a constituent unit of the National Council of Science Museums (NCSM), an autonomous body under the Ministry of Culture, Government of India and is the country’s first regional level science centre and the only one in the state of Bihar. It was established in Patna in the year 1978 which was named after the first Chief Minister of Bihar (Dr. Shrikrishna Singh).
+It was inaugurated on April 14, 1978 by the then Minister of Education, Govt of Bihar, Shri Thakur Prasad Singh.
+Fun, excitement and a lot of action are what this gallery is all about in a nutshell. It is a place where every move of yours counts and every action you take is responded to. A truly interactive experience is what the gallery promises you.
+
+Here pendulums create chaos; rings go up defying gravity; coloured liquids make impossible mixture with a spectacular effect. Here you find funny a carrom board in the shape of an ellipse, a string-less piano that produces sound when yousimply wave your hand in air above it, how a slant and straight rod easily passes through a curved hyperbolic slot, invisible magnetic lines of forces become visible … .. and a plethora of other enjoyable contraptions - all for helping you all learn science through fun.The gallery, in other words, justifies the fact – Science is Fun.
+</pre></string>
+
+    <string name="funtasia_island_desc"><pre>Funtasia Water Park is an amusement and water park located in Patna, India. The park contains many attractions such as numerous water slides and water playgrounds. The park is the first water park in Bihar.
+The water theme park is located on the New Bypass road. It is 11 km away from Patna Junction and about 16 km from Patna Airport.
+        <br><h3>Attractions:\n</h3></br>
+<ul>
+<li> Water slides </li>
+<li> Wave pool</li>
+<li> Swimming pools </li>
+<li> Kids water slides </li>
+<li> Two Kids wave pool </li>
+<li> Multi cuisine restaurant </li>
+<li> Coffee shops, Souvenir\'s shop, Banquet hall </li>
+</ul></pre></string>
+
+    <string name="mona_cinema_desc"><pre>Mona Multiplex Cinema Hall is first multiplex cinema hall in Bihar. On 14th January, 2009 evening, the capital city Patna got the first multiplex of the state. With the premier of Nikhil Advani\’s movie "Chandni Chowk to China" the multiplex cinema hall was thrown open for public. Earlier it was a single screen cinema hall. Now there are four theater in this multiplex. All are air- conditioned.The multiplex has a seating capacity of 442, while the walls are brown coloured. Besides, the colourful curtain and tasteful ambience make cinema viewing a pleasurable experience. The 70 mm screen of the theatre has been made flexible, which can be compressed and stretched. Washrooms of the halls are western style and other facilities are in par with country\’s best multiplexes
+The location of Mona Multiplex cinema hall is east of Gandhi Maidan, Patna. It is about 2 km. from Patna Railway station. The prices of tickets of Mona Multiplex starts from Rs. 150/-
+This is super multiplex and pride of Bihar.
+</pre></string>
+
+    <string name="pnm_mall_desc"><pre>The P&amp;M Mall in Patna, located in Patliputra Industrial Area, is the first mall the city had ever seen, and is the torch-bearer of the mall culture in the city. The mall was inaugurated in the year 2011. The mall has been very thoughtfully designed to accommodate facilities for entertainment and shopping for all age groups. One can find several brands here like Levis, Wills Lifestyle, Nakshatra, Meena Bazaar, Adidas, Van Heusen, and many more. It also enjoys the distinction of housing the first ever mutiplex in Bihar - The Cinepolis. Apart from all this, there are numerous other facilities that P&amp;M Mall offers including a hypermarket, entertainment zone, food court, gym, banquet halls and conference rooms. So, if you are planning a day out with your family and friends, it is the perfect place to relax, enjoy, and indulge in some sinful shopping.</pre></string>
+
+    <string name="regent_fun_cinemas_desc"><pre>Opened in 1929 as Palace of Varieties, it became the Regent Theatre in 1948.
+After a renovation, it reopened September 10, 2010, with 697 seats and 3D and the original auditorium that brings one back to 1929.
+It has been operated by Fun Cinemas since. 2013 playing Indian and American super hero films.
+
+</pre></string>
+
+    <string name="karuna_stupa_desc"><pre>The 200-ft-high Pataliputra Karuna Stupa is a circular structure. It has several entrances and houses a relic of Lord Buddha, which is one of the eight original relics excavated from Vaishali, in a glass enclosure. There are several other relics, brought by His Holiness the Dalai Lama and several monks from Thailand, Myanmar, Japan, South Korea and Sri Lanka, kept in different caskets.</pre></string>
+
+    <string name="shaheed_smarak_desc"><pre>The Martyrs\’ Memorial, also known as Shaheed Smarak, is a life-size statue of seven young men who sacrificed their lives in the Quit India movement (August 1942), to hoist the national flag on the (now) Secretariat building. The foundation stone of Martyr\\’s Memorial was laid on 15 August 1947, by the governor of Bihar, Mr. Jairam Das Daulatram in presence of Premier of Bihar "Bihar Keshri" Dr. Srikrishna Sinha and his deputy Mr. Anugrah Narayan Sinha . The sculptor Devi Prasad Roychoudhury built the bronze statue of the seven students with the national flag. These statues were cast in Italy and later placed here.
+Martyr\’s Memorial is now situated outside the Secretariat building in Patna.
+    </pre></string>
+
+    <string name="shanti_stupa_desc"><pre>The Vishwa Shanti Stupa is erected according to the teaching of the Saodharma Pundarika Sutra (The lotus Sutra) to disseminate love and peace and to create \"The pure Land\" on the earth.
+The construction of the stupa all over the world was initiated by the most Ven. Nichidatsu Fuji Guruji, after seeing the tragedy of atomic bombs in Hiroshima and Nagasaki of Japan, at the end of the World war 2. The Vishwa Shanti Stupa, Vaishali has been built by Nipponzan Myhoji and Rajgir Buddha Vihar Society. Through contribution of devotees in India and Japan, The Lord Buddha\'s relics have been enshrined on the foundation and on the top of the stupa.
+
+</pre></string>
+    <!--Websites-->
+    <!--Attraction-->
+    <string name="buddha_smriti_park_website">https://en.wikipedia.org/wiki/Buddha_Smriti_Park</string>
+    <string name="eco_park_website">https://en.wikipedia.org/wiki/Eco_Park%2C_Patna</string>
+    <string name="mahatma_gandhi_statue_website">https://en.wikipedia.org/wiki/Statue_of_Mahatma_Gandhi%2C_Gandhi_Maidan</string>
+    <string name="golghar_website">https://en.wikipedia.org/wiki/Golghar</string>
+    <string name="agam_kuan_website">https://en.wikipedia.org/wiki/Agam_Kuan</string>
+
+    <!--Pilgrimages-->
+    <string name="mahavir_temple_website">https://en.wikipedia.org/wiki/Mahavir_Mandir</string>
+    <string name="kamaldah_temple_website">https://patnaphotogallery.blogspot.com/2014/05/kamaldah-jain-temple-complex-patna.html</string>
+    <string name="patna_sahib_website">https://en.wikipedia.org/wiki/Takht_Sri_Patna_Sahib</string>
+    <string name="patan_devi_temple_website">https://en.wikipedia.org/wiki/Patan_Devi</string>
+    <string name="st_luke_church_website">https://en.wikipedia.org/wiki/St_Luke\'s_Church%2C_Patna%2C_Bihar</string>
+
+    <!--Infotainment-->
+    <string name="bihar_museum_website">https://en.wikipedia.org/wiki/Bihar_Museum</string>
+    <string name="patna_museum_website">https://en.wikipedia.org/wiki/Patna_Museum</string>
+    <string name="planetarium_website">https://en.wikipedia.org/wiki/Indira_Gandhi_Planetarium</string>
+    <string name="zoo_website">https://www.zoopatna.com/</string>
+    <string name="science_centre_website">https://en.wikipedia.org/wiki/Shrikrishna_Science_Centre</string>
+
+    <!--Entertainment-->
+    <string name="funtasia_island_website">http://funtasiaisland.com/</string>
+    <string name="mona_cinema_website">http://www.monacinema.com/</string>
+    <string name="pnm_mall_website">https://en.wikipedia.org/wiki/P%26M_Mall</string>
+    <string name="regent_fun_cinemas_website">https://regentfuncinema.business.site/</string>
+
+    <!--Monuments-->
+    <string name="karuna_stupa_website">https://en.wikipedia.org/wiki/Buddha_Smriti_Park</string>
+    <string name="shaheed_smarak_website">https://en.wikipedia.org/wiki/Shaheed_Smarak_Patna</string>
+    <string name="shanti_stupa_website">https://en.wikipedia.org/wiki/Vishwa_Shanti_Stupa</string>
+
+</resources>

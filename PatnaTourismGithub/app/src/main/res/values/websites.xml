@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places_of_attraction_website">
+        <item>@string/buddha_smriti_park_website</item>
+        <item>@string/eco_park_website</item>
+        <item>@string/mahatma_gandhi_statue_website</item>
+        <item>@string/agam_kuan_website</item>
+        <item>@string/mahavir_temple_website</item>
+    </string-array>
+    <string-array name="pilgrimages_website">
+        <item>@string/mahavir_temple_website</item>
+        <item>@string/kamaldah_temple_website</item>
+        <item>@string/patna_sahib_website</item>
+        <item>@string/patan_devi_temple_website</item>
+        <item>@string/st_luke_church_website</item>
+    </string-array>
+    <string-array name="infotainment_website">
+        <item>@string/bihar_museum_website</item>
+        <item>@string/patna_museum_website</item>
+        <item>@string/planetarium_website</item>
+        <item>@string/zoo_website</item>
+        <item>@string/science_centre_website</item>
+    </string-array>
+    <string-array name="entertainment_website">
+        <item>@string/eco_park_website</item>
+        <item>@string/funtasia_island_website</item>
+        <item>@string/mona_cinema_website</item>
+        <item>@string/pnm_mall_website</item>
+        <item>@string/regent_fun_cinemas_website</item>
+    </string-array>
+    <string-array name="monuemts_website">
+        <item>@string/golghar_website</item>
+        <item>@string/karuna_stupa_website</item>
+        <item>@string/mahatma_gandhi_statue_website</item>
+        <item>@string/shaheed_smarak_website</item>
+        <item>@string/shanti_stupa_website</item>
+    </string-array>
+</resources>

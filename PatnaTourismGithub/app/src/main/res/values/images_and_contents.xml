@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Attraction-->
+    <integer-array name="places_of_attraction_images">
+        <item>@drawable/buddha_smriti_park</item>
+        <item>@drawable/eco_park</item>
+        <item>@drawable/mahatma_gandhi_statue</item>
+        <item>@drawable/agam_kuan</item>
+        <item>@drawable/mahavir_temple</item>
+    </integer-array>
+
+    <string-array name="places_of_attraction_desc">
+        <item>@string/buddha_smriti_park_desc</item>
+        <item>@string/eco_park_desc</item>
+        <item>@string/mahatma_gandhi_statue_desc</item>
+        <item>@string/agam_kuan_desc</item>
+        <item>@string/mahavir_temple_desc</item>
+    </string-array>
+
+    <string-array name="aNames">
+        <item>@string/buddha_smriti_park</item>
+        <item>@string/eco_park</item>
+        <item>@string/mahatma_gandhi_statue</item>
+        <item>@string/agam_kuan</item>
+        <item>@string/mahavir_mandir</item>
+    </string-array>
+    <!--Pilgrimages-->
+    <integer-array name="pilgrimages_images">
+        <item>@drawable/mahavir_temple</item>
+        <item>@drawable/kamaldah_jain_temple</item>
+        <item>@drawable/patna_sahib</item>
+        <item>@drawable/patan_devi_temple</item>
+        <item>@drawable/st_luke_church</item>
+    </integer-array>
+
+    <string-array name="pilgrimages_desc">
+        <item>@string/mahavir_temple_desc</item>
+        <item>@string/kamaldah_temple_desc</item>
+        <item>@string/patna_sahib_desc</item>
+        <item>@string/patan_devi_temple_desc</item>
+        <item>@string/st_luke_church_desc</item>
+    </string-array>
+
+    <string-array name="pNames">
+        <item>@string/mahavir_mandir</item>
+        <item>@string/kamaldah_jain</item>
+        <item>@string/patna_sahib</item>
+        <item>@string/patan_devi_mandir</item>
+        <item>@string/st_luke_church</item>
+    </string-array>
+    <!--Infotainment-->
+    <integer-array name="infotainment_images">
+        <item>@drawable/bihar_museum</item>
+        <item>@drawable/patna_museum</item>
+        <item>@drawable/planetarium</item>
+        <item>@drawable/sanjay_gandhi_jaivik</item>
+        <item>@drawable/science_centre</item>
+    </integer-array>
+    <string-array name="infotainment_desc">
+        <item>@string/bihar_museum_desc</item>
+        <item>@string/patna_museum_desc</item>
+        <item>@string/planetarium_desc</item>
+        <item>@string/zoo_desc</item>
+        <item>@string/science_centre_desc</item>
+    </string-array>
+    <string-array name="iNames">
+        <item>@string/bihar_museum</item>
+        <item>@string/patna_museum</item>
+        <item>@string/planetarium</item>
+        <item>@string/zoo</item>
+        <item>@string/science_centre</item>
+    </string-array>
+
+    <!--Entertainment-->
+    <integer-array name="entertainment_images">
+        <item>@drawable/eco_park</item>
+        <item>@drawable/funtasia_island</item>
+        <item>@drawable/mona_cinema</item>
+        <item>@drawable/pnm_mall</item>
+        <item>@drawable/regent_fun_cinemas</item>
+    </integer-array>
+    <string-array name="entertainment_desc">
+        <item>@string/eco_park_desc</item>
+        <item>@string/funtasia_island_desc</item>
+        <item>@string/mona_cinema_desc</item>
+        <item>@string/pnm_mall_desc</item>
+        <item>@string/regent_fun_cinemas_desc</item>
+    </string-array>
+    <string-array name="eNames">
+        <item>@string/eco_park</item>
+        <item>@string/funtasia_island</item>
+        <item>@string/mona_cinema</item>
+        <item>@string/pnm_mall</item>
+        <item>@string/regent_fun_cinemas</item>
+    </string-array>
+
+    <!--Monuments-->
+    <integer-array name="monuments_images">
+        <item>@drawable/golghar</item>
+        <item>@drawable/karuna_stupa</item>
+        <item>@drawable/mahatma_gandhi_statue</item>
+        <item>@drawable/shaheed_smarak</item>
+        <item>@drawable/shanti_stupa</item>
+    </integer-array>
+    <string-array name="monuemts_desc">
+        <item>@string/golghar_desc</item>
+        <item>@string/karuna_stupa_desc</item>
+        <item>@string/mahatma_gandhi_statue_desc</item>
+        <item>@string/shaheed_smarak_desc</item>
+        <item>@string/shanti_stupa_desc</item>
+    </string-array>
+    <string-array name="mNames">
+        <item>@string/golghar</item>
+        <item>@string/karuna_stupa</item>
+        <item>@string/mahatma_gandhi_statue</item>
+        <item>@string/shaheed_smarak</item>
+        <item>@string/shanti_stupa</item>
+    </string-array>
+
+
+</resources>
